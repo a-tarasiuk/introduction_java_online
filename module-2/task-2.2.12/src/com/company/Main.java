@@ -1,0 +1,79 @@
+package com.company;
+
+public class Main {
+    public static void main(String[] args) {
+        int     size = 0,
+                array[][],
+                temp = 0;
+
+        while (true){
+            size = (int)(Math.random() * 10);
+            if(size > 2) break;
+        }
+
+        array = new int[size][size];
+        //-----------------------------------------------------------
+        System.out.println("Исходная матрица:");
+        for(int i = 0; i < array.length; i++){
+            for(int j = 0; j < array.length; j++){
+                array[i][j] = (int)(Math.random()*20);
+                System.out.print(array[i][j] + "\t");
+            }
+            System.out.println();
+        }
+        //-----------------------------------------------------------
+        System.out.println("\nСортировка по строкам по возрастанию:\n");
+        for(int i = 0; i < array.length; i++){
+            for(int j = 0; j < array.length; j++){
+                arrayUp(array);
+                System.out.print(array[i][j] + "\t");
+            }
+            System.out.println();
+        }
+        //-----------------------------------------------------------
+        System.out.println("\nСортировка по строкам по убыванию:\n");
+        for(int i = 0; i < array.length; i++){
+            for(int j = 0; j < array.length; j++){
+                arrayDown(array);
+                System.out.print(array[i][j] + "\t");
+            }
+            System.out.println();
+        }
+        //-----------------------------------------------------------
+    }
+
+    //-----------------------------------------------------------
+    private static int[][] arrayUp(int[][] mass){
+        int temp = 0;
+        for(int i = 0; i < mass.length; i++){
+            for(int j = 0; j < mass.length; j++){
+                for(int k = mass.length - 1; k > j; k--){
+                    if(mass[i][k] < mass[i][k-1]){
+                        temp = mass[i][k];
+                        mass[i][k] = mass[i][k-1];
+                        mass[i][k-1] = temp;
+                    }
+                }
+            }
+        }
+        return mass;
+    }
+    //-----------------------------------------------------------
+    private static int[][] arrayDown(int[][] mass){
+        int temp = 0;
+        for(int i = 0; i < mass.length; i++){
+            for(int j = 0; j < mass.length; j++){
+                for(int k = mass.length - 1; k > j; k--){
+                    if(mass[i][k] > mass[i][k-1]){
+                        temp = mass[i][k];
+                        mass[i][k] = mass[i][k-1];
+                        mass[i][k-1] = temp;
+                    }
+                }
+            }
+        }
+        return mass;
+    }
+    //-----------------------------------------------------------
+
+}

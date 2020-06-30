@@ -1,0 +1,13 @@
+<?com.company.xml version="1.0" encoding="UTF-8"?>
+<DATABASE_ACCOUNTS>
+  <USER>
+    <ACCESS_LEVEL>ADMINISTRATOR</ACCESS_LEVEL>
+    <LOGIN>admin</LOGIN>
+    <PASSWORD>admin</PASSWORD>
+  </USER>
+  <USER>
+    <ACCESS_LEVEL>USER</ACCESS_LEVEL>
+    <LOGIN>com.company.user</LOGIN>
+    <PASSWORD>com.company.user</PASSWORD>
+  </USER>
+</DATABASE_ACCOUNTS>

@@ -1,0 +1,105 @@
+BOOK_TYPE:Electronic version
+AUTHOR:Jake
+NAME_BOOK:Head First Java
+YEAR_OF_PUBLICATION:2015
+NUMBER_OF_PAGES:900
+DESCRIPTION:nice com.company.book!
+URL:www.google.com
+BOOK_TYPE:Paper version
+AUTHOR:Unnamed
+NAME_BOOK:Best Book about Java
+YEAR_OF_PUBLICATION:2020
+NUMBER_OF_PAGES:800
+DESCRIPTION:None
+URL:-
+BOOK_TYPE:Electronic version
+AUTHOR:Unknown
+NAME_BOOK:Unknown Java
+YEAR_OF_PUBLICATION:2020
+NUMBER_OF_PAGES:700
+DESCRIPTION:Unknown des
+URL:www.yandex.ru
+BOOK_TYPE:Electronic version
+AUTHOR:Jake
+NAME_BOOK:Head First Java
+YEAR_OF_PUBLICATION:2015
+NUMBER_OF_PAGES:900
+DESCRIPTION:nice com.company.book!
+URL:www.google.com
+BOOK_TYPE:Paper version
+AUTHOR:Unnamed
+NAME_BOOK:Best Book about Java
+YEAR_OF_PUBLICATION:2020
+NUMBER_OF_PAGES:800
+DESCRIPTION:None
+URL:-
+BOOK_TYPE:Electronic version
+AUTHOR:Unknown
+NAME_BOOK:Unknown Java
+YEAR_OF_PUBLICATION:2020
+NUMBER_OF_PAGES:700
+DESCRIPTION:Unknown des
+URL:www.yandex.ru
+BOOK_TYPE:Electronic version
+AUTHOR:Jake
+NAME_BOOK:Head First Java
+YEAR_OF_PUBLICATION:2015
+NUMBER_OF_PAGES:900
+DESCRIPTION:nice com.company.book!
+URL:www.google.com
+BOOK_TYPE:Paper version
+AUTHOR:Unnamed
+NAME_BOOK:Best Book about Java
+YEAR_OF_PUBLICATION:2020
+NUMBER_OF_PAGES:800
+DESCRIPTION:None
+URL:-
+BOOK_TYPE:Electronic version
+AUTHOR:Unknown
+NAME_BOOK:Unknown Java
+YEAR_OF_PUBLICATION:2020
+NUMBER_OF_PAGES:700
+DESCRIPTION:Unknown des
+URL:www.yandex.ru
+BOOK_TYPE:Electronic version
+AUTHOR:Jake
+NAME_BOOK:Head First Java
+YEAR_OF_PUBLICATION:2015
+NUMBER_OF_PAGES:900
+DESCRIPTION:nice
+URL:www.google.com
+BOOK_TYPE:Paper version
+AUTHOR:Unnamed
+NAME_BOOK:Best Book about Java
+YEAR_OF_PUBLICATION:2020
+NUMBER_OF_PAGES:800
+DESCRIPTION:None
+URL:-
+BOOK_TYPE:Electronic version
+AUTHOR:google
+NAME_BOOK:google
+YEAR_OF_PUBLICATION:2020
+NUMBER_OF_PAGES:2020
+DESCRIPTION:google
+URL:www.google.com
+BOOK_TYPE:Electronic version
+AUTHOR:Yahoo
+NAME_BOOK:Yahoo
+YEAR_OF_PUBLICATION:10
+NUMBER_OF_PAGES:2020
+DESCRIPTION:Yahoo des.
+URL:www.yahoo.com
+BOOK_TYPE:Paper version
+AUTHOR:New
+NAME_BOOK:New Book
+YEAR_OF_PUBLICATION:1234
+NUMBER_OF_PAGES:333
+DESCRIPTION:New Book for site! Look at this!
+URL:-
+BOOK_TYPE:Electronic version
+AUTHOR:Name
+NAME_BOOK:Book
+YEAR_OF_PUBLICATION:2018
+NUMBER_OF_PAGES:444
+DESCRIPTION:New com.company.book
+URL:www.yandex.ru

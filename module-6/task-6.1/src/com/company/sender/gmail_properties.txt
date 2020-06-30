@@ -1,0 +1,6 @@
+mail.smtp.host=smtp.gmail.com
+mail.smtp.auth=true
+mail.smtp.port=465
+mail.smtp.ssl.enable=true
+mail.smtp.from=java0tutoronline@gmail.com
+mail.smtp.password=uBjqtN7ikNGBy65

@@ -1,0 +1,8 @@
+LOGIN:admin
+PASSWORD:21232f297a57a5a743894a0e4a801fc3
+EMAIL:java0tutoronline@gmail.com
+ACCESS_LEVEL:Administrator
+LOGIN:com.company.user
+PASSWORD:ee11cbb19052e40b07aac0ca060c23ee
+EMAIL:n199a.info@gmail.com
+ACCESS_LEVEL:User
